@@ -2,11 +2,11 @@
 
 I'm majoring in ***Physics*** and ***Computer Science*** at ***Sogang Univ.*** located at Seoul, Korea.
 
-## Currently I'm interested...
+## Currently I'm interested in...
 
 - Deep Learning
 
-## What I'm studying now
+## What I'm studying now...
 
 - C++
 
