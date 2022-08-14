@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @sillsill777
+# 👋 Hi, I’m TaeHoon Yoon
 
 I'm majoring in ***Physics*** and ***Computer Science*** at ***Sogang Univ.*** located at Seoul, Korea.
 
