@@ -20,7 +20,8 @@ I'm majoring in ***Physics*** and ***Computer Science*** at ***Sogang Univ.*** l
 ### How to contact
 * * *
 - e-mail
-  - willyepep@naver.com
+  - [*willyepep@naver.com*](willyepep@naver.com)
+  - [*willyepep@gmail.com*](willyepep@gmail.com)
   
 ***
 
