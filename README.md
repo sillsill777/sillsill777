@@ -5,12 +5,17 @@ I'm majoring in ***Physics*** and ***Computer Science*** at ***Sogang Univ.*** l
 ## Currently I'm interested in...
 
 - Deep Learning
+  - Computer Vision
+    - GAN
+    - NeRF
 
 ## What I'm studying now...
 
 - C++
 
 - Python
+  - Tensorflow
+  - Pytorch
 
 - Octave
 
@@ -18,10 +23,10 @@ I'm majoring in ***Physics*** and ***Computer Science*** at ***Sogang Univ.*** l
 
 * * *
 ### How to contact
-* * *
+
 - e-mail
-  - [*willyepep@naver.com*](willyepep@naver.com)
-  - [*willyepep@gmail.com*](willyepep@gmail.com)
+  - willyepep@naver.com
+  - willyepep@gmail.com
   
 ***
 
