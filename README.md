@@ -9,18 +9,6 @@ I'm majoring in ***Physics*** and ***Computer Science*** at ***Sogang Univ.*** l
     - GAN
     - NeRF
 
-## What I'm studying now...
-
-- C++
-
-- Python
-  - Tensorflow
-  - Pytorch
-
-- Octave
-
-- Deep Learning
-
 * * *
 ### How to contact
 
