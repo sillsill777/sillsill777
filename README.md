@@ -1,28 +1,40 @@
-# 👋 Hi, I’m TaeHoon Yoon
+# ***TAEHOON YOON***
+- Seoul, Republic of Korea
+- willyepep@naver.com
 
-I'm majoring in ***Physics*** and ***Computer Science*** at ***Sogang Univ.*** located at Seoul, Korea.
+## EDUCATION
+- Sogang University    [Mar. 2017 - Present]
+  - Major: Physics, Computer Science
+  - Overall GPA: 4.26/4.3
 
-## Currently I'm interested in...
-
+## RESEARCH INTERESTS
 - Deep Learning
   - Computer Vision
     - GAN
     - NeRF
+- Computational Physics
 
-* * *
-### How to contact
+## RESEARCH EXPERIENCE
+- Internship at KAIST AI graduate school (Advisor, Jong Chul Ye)    [Jul. 2022 - Sept. 2022]
 
-- e-mail
-  - willyepep@naver.com
-  - willyepep@gmail.com
-  
-***
+## AWARDS / HONORS
+- Dean's List    [Feb. 2023]
+- Top 1% Grade Award(Awarded by the President of the University)    [Sept. 2020]
+- Top 1% Grade Award(Awarded by the President of the University)    [Mar. 2020]
+- Dean's List    [Feb. 2020]
+- Top 1% Grade Award(Awarded by the President of the University)    [Mar. 2019]
+
+## QUALIFICATION
+- TOEFL 102    [Mar. 2020]
+
+- - -
 
  ```C++
  #include <iostream>
  
   int main(void){
     std::cout<< "Hello, Nice to meet you"<< std::endl;
+    return 0;
   }
  ```
  
