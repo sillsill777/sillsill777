@@ -15,7 +15,7 @@
 - Computational Physics
 
 ## RESEARCH EXPERIENCE
-- Reasearch Internship at KAIST AI graduate school (Advisor, Prof. Jong Chul Ye)    [Jul. 2022 - Sept. 2022]
+- Research Internship at KAIST AI graduate school (Advisor, Prof. Jong Chul Ye)    [Jul. 2022 - Sept. 2022]
 
 ## AWARDS / HONORS
 - Dean's List    [Feb. 2023]
