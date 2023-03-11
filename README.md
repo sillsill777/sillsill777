@@ -15,7 +15,7 @@
 - Computational Physics
 
 ## RESEARCH EXPERIENCE
-- Internship at KAIST AI graduate school (Advisor, Jong Chul Ye)    [Jul. 2022 - Sept. 2022]
+- Reasearch Internship at KAIST AI graduate school (Advisor, Prof. Jong Chul Ye)    [Jul. 2022 - Sept. 2022]
 
 ## AWARDS / HONORS
 - Dean's List    [Feb. 2023]
@@ -25,6 +25,8 @@
 - Top 1% Grade Award(Awarded by the President of the University)    [Mar. 2019]
 
 ## QUALIFICATION
+- TOEIC 965    [Feb. 2023]
+- TEPS 454    [Feb. 2023]
 - TOEFL 102    [Mar. 2020]
 
 - - -
