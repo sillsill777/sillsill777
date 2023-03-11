@@ -26,7 +26,7 @@
 
 ## QUALIFICATION
 - TOEIC 965    [Feb. 2023]
-- TEPS 454    [Feb. 2023]
+- TEPS  454    [Feb. 2023]
 - TOEFL 102    [Mar. 2020]
 
 - - -
