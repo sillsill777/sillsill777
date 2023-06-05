@@ -8,14 +8,16 @@
   - Overall GPA: 4.26/4.3
 
 ## RESEARCH INTERESTS
-- Deep Learning
-  - Computer Vision
-    - GAN
-    - NeRF
-- Computational Physics
+- Computer Vision
+- Novel View Synthesis
+- Vision Transfomer
+- 3D Deep Learning
+- Generative Model
+- Intuitive Physical Inference
 
 ## RESEARCH EXPERIENCE
 - Research Internship at KAIST AI graduate school (Advisor, Prof. Jong Chul Ye)    [Jul. 2022 - Sept. 2022]
+- Undergraduate Research Intern at SOGANG Visual Computing Lab (Advisor, Prof. Joo Ho Lee)     [Sept. 2022 - Apr. 2023]
 
 ## AWARDS / HONORS
 - Dean's List    [Feb. 2023]
