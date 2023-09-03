@@ -5,7 +5,7 @@
 ## EDUCATION
 - Sogang University    [Mar. 2017 - Present]
   - Major: Physics, Computer Science
-  - Overall GPA: 4.26/4.3
+  - Overall GPA: 4.27/4.3
 
 ## RESEARCH INTERESTS
 - Computer Vision
@@ -16,6 +16,7 @@
 - Intuitive Physical Inference
 
 ## RESEARCH EXPERIENCE
+- Research Intern at CJ AI Center [Hosted by Seoul National Univ. AI Institute, Industry-Academic Cooperation Program]   [Jul.2023 - Aug. 2023]
 - Research Internship at KAIST AI graduate school (Advisor, Prof. Jong Chul Ye)    [Jul. 2022 - Sept. 2022]
 - Undergraduate Research Intern at SOGANG Visual Computing Lab (Advisor, Prof. Joo Ho Lee)     [Sept. 2022 - Apr. 2023]
 
