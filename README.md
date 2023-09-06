@@ -9,11 +9,9 @@
 
 ## RESEARCH INTERESTS
 - Computer Vision
+- **Few-shot 3D reconstruction**
 - Novel View Synthesis
-- Vision Transfomer
-- 3D Deep Learning
 - Generative Model
-- Intuitive Physical Inference
 
 ## RESEARCH EXPERIENCE
 - Research Intern at CJ AI Center [Hosted by Seoul National Univ. AI Institute, Industry-Academic Cooperation Program]   [Jul.2023 - Aug. 2023]
