@@ -1,6 +1,6 @@
 # ***TAEHOON YOON***
 - Seoul, Republic of Korea
-- willyepep@naver.com
+- taehoon@kaist.ac.kr / willyepep@naver.com
 
 ## EDUCATION
 - Sogang University    [Mar. 2017 - Feb. 2024]
